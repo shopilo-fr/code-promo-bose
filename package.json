@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-bose",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Bose depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-bose",
+    "bon-de-reduction-bose",
+    "coupon-bose",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/bose.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-bose.git"
+  }
+}
